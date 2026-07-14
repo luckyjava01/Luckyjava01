@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shivansh
+# Hi there 👋, I'm Lucky Jha
 
 🚀 Aspiring Full Stack Developer
 💻 Learning Java, Web Development, and the MERN Stack
